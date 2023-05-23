@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ph-Alves
+- 👀 I’m interested in Being a good programer full-stack, i'm trying to improve everyday
+- 🌱 I’m currently learning HTML and CSS and looking after to learn more Phyton and JavaScript
+- 📫 How to reach me ph.costaalves@gmail.com
