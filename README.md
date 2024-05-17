@@ -9,17 +9,17 @@ How to reach me ph.costaalves@gmail.com
 ### Stats
 <div>
   <a href="https://github.com/Ph-Alves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ph-Alves&theme=shadow_red&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ph-Alves&theme=shadow_blue&show_icons=true"/>
   <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-Alves&layout=compact&langs_count=8&theme=shadow_red"/>   
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-Alves&layout=compact&langs_count=8&theme=shadow_blue"/>   
 </div>
 
 ### Top Repositories
 <a href="https://github.com/Ph-Alves/Exercicios_Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=Exercicios_Java&theme=shadow_red" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=Exercicios_Java&theme=shadow_blue" />
 </a>
 
 <a href="https://github.com/Ph-Alves/Projetos-Html-css">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=Projetos-Html-css&theme=shadow_red" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=Projetos-Html-css&theme=shadow_blue" />
 </a>
 
