@@ -10,7 +10,6 @@ How to reach me ph.costaalves@gmail.com
 <div>
   <a href="https://github.com/Ph-Alves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ph-Alves&theme=shadow_blue&show_icons=true"/>
-  <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-Alves&layout=compact&langs_count=8&theme=shadow_blue"/>   
 </div>
 
