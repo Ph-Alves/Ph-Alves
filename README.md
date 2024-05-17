@@ -16,10 +16,10 @@ How to reach me ph.costaalves@gmail.com
 
 ### Top Repositories
 <a href="https://github.com/Ph-Alves/Exercicios_Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=CS50_Projects&theme=shadow_red" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=Exercicios_Java&theme=shadow_red" />
 </a>
 
 <a href="https://github.com/Ph-Alves/Projetos-Html-css">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=NocturneWorld&theme=shadow_red" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=Projetos-Html-css&theme=shadow_red" />
 </a>
 
