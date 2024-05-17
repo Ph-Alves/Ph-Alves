@@ -8,7 +8,7 @@ How to reach me ph.costaalves@gmail.com
 
 ### Stats
 <div>
-  <a href="https://github.com/fe-oliver](https://github.com/Ph-Alves">
+  <a href="https://github.com/Ph-Alves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fe-oliver&theme=shadow_red&show_icons=true"/>
   <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-oliver&layout=compact&langs_count=8&theme=shadow_red"/>   
