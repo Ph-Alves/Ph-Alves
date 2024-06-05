@@ -19,6 +19,6 @@ How to reach me ph.costaalves@gmail.com
 </a>
 
 <a href="https://github.com/Ph-Alves/chess-system-java">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=Projetos-Html-css&theme=shadow_blue" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=chess-system-java&theme=shadow_blue" />
 </a>
 
