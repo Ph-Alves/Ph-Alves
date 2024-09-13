@@ -3,7 +3,7 @@
 ### About me
 > I'm Paulo Henrique
 I’m interested in Being a full-stack developer,on focus to improve everyday
-I’m currently learning C and Java and looking after to learn more C# (C# i didn't started yet)
+I’m currently learning Java, CyberSecurity and looking after to learn more C# (C# i didn't started yet)
 How to reach me ph.costaalves@gmail.com
 
 ### Stats
