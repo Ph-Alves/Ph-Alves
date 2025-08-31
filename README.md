@@ -20,7 +20,7 @@ Working in team, with tests and version control with git/github
 [![Technologies](https://skillicons.dev/icons?i=swift,java,c,html,css,js&perline=3&theme=dark)](https://skillicons.dev)
 
 #### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,eclipse,gmail&perline=3&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,eclipse,gmail,trello&perline=3&theme=dark)](https://skillicons.dev)
 
 ### Stats
 <div>
