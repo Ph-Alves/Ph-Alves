@@ -5,13 +5,19 @@
 I’m currently learning swift and all of his frameworks like UIKit, SwiftUI, and data managment with CoreData and SwiftData.
 How to reach me ph.costaalves@gmail.com
 
---
+---
 
 ### What im studying
 > Creating apps for iOS platform
 Modern architectures and good practices on apple ecosystem
 Creating games and apps in a form of learning
 Working in team, with tests and version control with git/github
+
+---
+
+### Technologies and Frameworks
+[![Technologies](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Stats
 <div>
