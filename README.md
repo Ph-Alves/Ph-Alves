@@ -5,7 +5,7 @@
 I’m currently learning swift and all of his frameworks like UIKit, SwiftUI, and data managment with CoreData and SwiftData.
 How to reach me ph.costaalves@gmail.com
 
-- 
+--
 
 ### What im studying
 > Creating apps for iOS platform
