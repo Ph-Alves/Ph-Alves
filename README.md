@@ -24,12 +24,16 @@ Working in team, with tests and version control with git/github
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,eclipse,gmail,linkedin&perline=3&theme=dark)](https://skillicons.dev)
 
+---
+
 ### Stats
 <div>
   <a href="https://github.com/Ph-Alves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ph-Alves&theme=algolia&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-Alves&theme=algolia&layout=compact"/> 
 </div>
+
+---
 
 ### Top Repositories
 <a href="https://github.com/Ph-Alves/Exercicios_Java">
@@ -39,6 +43,8 @@ Working in team, with tests and version control with git/github
 <a href="https://github.com/Ph-Alves/chess-system-java">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=chess-system-java&theme=algolia" />
 </a>
+
+---
 
 ### Commits
 <picture>
