@@ -27,7 +27,7 @@ Working in team, with tests and version control with git/github
   <a href="https://github.com/Ph-Alves">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ph-Alves&theme=algolia&show_icons=true"/>   
 </div>
-  <img height="150em" width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-Alves&langs_count=8&theme=algolia"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-Alves&size_weight=0.5&count_weight=0.5&langs_count=8&theme=algolia"/> 
 
 ### Top Repositories
 <a href="https://github.com/Ph-Alves/Exercicios_Java">
