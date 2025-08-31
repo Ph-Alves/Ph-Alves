@@ -16,8 +16,8 @@ Working in team, with tests and version control with git/github
 ---
 
 ### Technologies and Frameworks
-[![Technologies](https://skillicons.dev/icons?i=swift,java,css,c)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=swift,java,c&perline=3)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://skillicons.dev)
 
 ### Stats
 <div>
