@@ -28,8 +28,8 @@ Working in team, with tests and version control with git/github
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ph-Alves&theme=algolia&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-Alves&theme=algolia"/> 
 </div>
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ph-Alves)](https://github.com/Ph-Alves/github-readme-stats)
-  
 
 ### Top Repositories
 <a href="https://github.com/Ph-Alves/Exercicios_Java">
