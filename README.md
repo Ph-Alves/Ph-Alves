@@ -1,10 +1,9 @@
-# *Hi!*
+# *Hi! i'm Paulo!*
 
 ### About me
-> I'm Paulo Henrique
-I’m interested in Being a full-stack developer,on focus to improve everyday
-I’m currently learning Java, CyberSecurity and looking after to learn more C# (C# i didnt started yet)
-How to reach me ph.costaalves@gmail.com
+> I’m interested in Being a Mobile developer, on focus to improve everyday in swift
+> I’m currently learning swift and all of his frameworks like UIKit, SwiftUI, and data managment with CoreData and SwiftData.
+> How to reach me ph.costaalves@gmail.com
 
 ### Stats
 <div>
