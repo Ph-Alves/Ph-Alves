@@ -1,4 +1,4 @@
-<img src="Images/pokemon-legends-arceus-characters-4k-wallpaper-uhdpaper.com-149@1@f.jpg"/>
+<img width="100%" src="Images/pokemon-legends-arceus-characters-4k-wallpaper-uhdpaper.com-149@1@f.jpg"/>
 
 # *Hi! i'm Paulo!*
 
