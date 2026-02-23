@@ -26,26 +26,6 @@ Working in team, with tests and version control with git/github
 
 ---
 
-### Stats
-<div>
-  <a href="https://github.com/Ph-Alves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ph-Alves&theme=algolia&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-Alves&theme=algolia&layout=compact"/> 
-</div>
-
----
-
-### Top Repositories
-<a href="https://github.com/Ph-Alves/Exercicios_Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=Exercicios_Java&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Ph-Alves/LearningArch_DesignPatt_Protocols">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=LearningArch_DesignPatt_Protocols&theme=algolia" />
-</a>
-
----
-
 ### Commits
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Micael-Martins/Micael-Martins/output/pacman-contribution-graph-dark.svg">
