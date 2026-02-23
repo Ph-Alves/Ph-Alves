@@ -37,10 +37,10 @@ Working in team, with tests and version control with git/github
 
 ### Top Repositories
 <a href="https://github.com/Ph-Alves/Exercicios_Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=Exercises-Java&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=Exercicios_Java&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/Ph-Alves/chess-system-java">
+<a href="https://github.com/Ph-Alves/LearningArch_DesignPatt_Protocols">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ph-Alves&repo=LearningArch_DesignPatt_Protocols&theme=algolia" />
 </a>
 
