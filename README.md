@@ -4,7 +4,7 @@
 
 ### About me
 > I’m interested in Being a Mobile developer, on focus to improve everyday in swift
-I’m currently learning swift and all of his frameworks like UIKit, SwiftUI, and data managment with CoreData and SwiftData.
+I’m currently learning swift and all of his frameworks like UIKit, SwiftUI, and updating my app FinHab.
 How to reach me ph.costaalves@gmail.com
 
 ---
@@ -12,7 +12,7 @@ How to reach me ph.costaalves@gmail.com
 ### What im studying
 > Creating apps for iOS platform
 Modern architectures and good practices on apple ecosystem
-Creating games and apps in a form of learning
+Creating apps in a form of learning
 Working in team, with tests and version control with git/github
 
 ---
