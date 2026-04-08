@@ -4,7 +4,7 @@
 
 ### About me
 > I’m interested in Being a Mobile developer, on focus to improve everyday in swift
-I’m currently learning swift and all of his frameworks like UIKit, SwiftUI, and updating my app FinHab.
+I’m currently learning swift, his frameworks and updating my app FinHab.
 How to reach me ph.costaalves@gmail.com
 
 ---
